@@ -27,6 +27,7 @@ My name is **Savan Ghori**. I am a backend developer from India.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDb"  alt="MongoDb" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker"  alt="Docker" width="70" height="70"/>&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-solr-icon-download-in-svg-png-gif-file-formats--company-brand-logo-world-logos-vol-4-pack-icons-282536.png" title="Solr"  alt="Solr" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis"  alt="Redis" width="70" height="70"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/en/3/31/Cockroach_Labs_Logo.png" title="CockroachDB"  alt="CockroachDB" width="70" height="70"/>&nbsp;
 </div>
 
