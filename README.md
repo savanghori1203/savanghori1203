@@ -24,7 +24,7 @@ My name is **Savan Ghori**. I am a backend developer from India.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha" alt="Mocha" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="70" height="70"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg)" title="Docker"  alt="Docker" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker"  alt="Docker" width="70" height="70"/>&nbsp;
   <img src="https://img.stackshare.io/service/4483/default_2e67ca5c691a5ecab8b19ffaeb371128b4266409.png" title="Solr"  alt="Solr" width="70" height="70"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/en/3/31/Cockroach_Labs_Logo.png" title="CockroachDB"  alt="CockroachDB" width="70" height="70"/>&nbsp;
 </div>
